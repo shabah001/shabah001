@@ -1,0 +1,472 @@
+#-------------------------------------------------------------------------------------------------------------
+#termux-setup-storage
+#cd SAx && python SA_0.py && cd ..
+#--------------------------------------------------------------------------------------------------
+apt update && apt upgrade -y
+########################################################################
+sleep 6.1
+
+#apt update 
+#apt upgrade
+#pkg install update
+#pkg install upgrade
+#apt-get update
+#apt-get upgrade
+#apt install php -y
+#apt install python -y
+#apt install python2 -y
+#apt install git -y
+#apt install golang -y
+#apt install host -y
+#apt install nano -y
+#apt install havij -y
+#apt install hydra -y
+#apt install wireshark -y
+#apt install cmatrix -y
+#pkg install figlet -y
+#pkg install wget -y
+#pkg install python2 -y
+#pkg install python2-dev -y
+#apt install wireshark -y
+#pkg install cowsay -y
+#pkg install toilet -y
+#pkg install ruby -y
+#pkg install help -y
+#gem install lolcat -y
+#pkg install curl -y
+#pkg install wgetrc -y
+#pkg install unzip -y
+#pkg install openssh -y
+#pkg install tor -y
+#pkg install uzip -y
+#pkg install net-tools -y
+#pkg install unrar -y
+#pkg install clang -y
+#pkg install w3m -y
+#pkg install proot -y
+#pip2 install wget -y
+#pkg install root-repo
+#pkg install unstable-repo
+#pkg install x11-repo
+#pip2 install requests -y
+
+#pkg install metasploit -y
+#pkg install taskwarrior -y
+#pkg install
+
+#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#--------------------------------------------------------------------------------------------------------------------------
+#python
+
+
+
+#------------------------------------------------------------------------------------------------------------
+
+clear
+cmatrix -C red -s
+clear
+###############################################################################
+#echo -e "_______________________________________________________________________" | lolcat -F 166
+#echo -e "|| [1]Amer}=[2]V7x}=[3]Tool}=[4]Tmux-Bunch}=[5]Lazymux}=[6]EasY_HaCk}||" | lolcat -F 166
+#echo -e "||                                                                   ||" | lolcat -F 166
+#echo -e "||[7]troll_project}=[8]install}=[9]blackeye} = [10]vulnx} = [11]OSIF}||" | lolcat -F 166
+#echo -e "||                                                                   ||" | lolcat -F 166
+#echo -e "||[12]apktool}=[13]blackeye}[14]payloadAmin}=[15]sqlmap}[16]RED_HAWK}||" | lolcat -F 166
+#echo -e "||                                                                   ||" | lolcat -F 166
+#echo -e "||[17]install3}[18]Dooslp}[19]RUTEFOFCEnew}=[20]bom}[21]installTrick}||" | lolcat -F 166
+#echo -e "||                                                                   ||" | lolcat -F 166
+#echo -e "||[22]}mbf}=[23]guardn}[24]xerxes}[25]TechnicaiMujeeb}[26]whatshsack}||" | lolcat -F 166
+#echo -e "||                                                                   ||" | lolcat -F 166
+#echo -e "||[27]LoofyAlgaddafi}[28]setgroup}[29]WhiteCyberTeam}[30]zeeb-dorker}||" | lolcat -F 166
+#echo -e "||                                                                   ||" | lolcat -F 166
+#echo -e "||[31]TMX-FW}=[32]s-wbf}[33]X-dos}[34]CUUTALL}[35]Report}=[36]adfind}||" | lolcat -F 166
+#echo -e "||                                                                   ||" | lolcat -F 166
+#echo -e "||[37]SETAN}[38]weeman}[39]Aliens}[40]instal}[41]Report}[42]fsociety}||" | lolcat -F 166
+#echo -e "||                                                                   ||" | lolcat -F 166
+#echo -e "||" | lolcat -F 166
+#echo -e "||                                                                   ||" | lolcat -F 166
+#echo -e "||" | lolcat -F 166
+#echo -e "||                                                                   ||" | lolcat -F 166
+#echo -e "||" | lolcat -F 166
+#echo -e "||                                                                   ||" | lolcat -F 166
+#echo -e "||" | lolcat -F 166
+#echo -e "||                                                                   ||" | lolcat -F 166
+#echo -e "||" | lolcat -F 166
+#echo -e "||                                                                   ||" | lolcat -F 166
+#echo -e "_______________________________________________________________________" | lolcat -F 166
+#echo -e "|| ###############################—MY:SA—##############################" | lolcat -F 166
+#echo -e "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@" | lolcat -F 166
+#########################################################################################################################################################################################################
+cd /sdcard/SAx/SAx-⚙️ && python ppp2.py && cd
+#python .ppp2.py
+
+
+
+
+
+###################################################################
+#echo -e "              ╭╮╮╱▔▔▔▔╲╭╭╮
+#              ╰╲╲▏▂╲╱▂▕╱╱╯
+#              ┈┈╲▏▇▏▕▇▕╱┈┈
+#              ┈┈╱╲▔▕▍▔╱╲┈┈
+#              ╭╱╱▕╋╋╋╋▏╲╲╮
+#              ╰╯╯┈╲▂▂╱┈╰╰╯    A H M E D" | lolcat -F 90
+############################################################################################################################################################
+echo
+#echo -e "                 ▒▒▒▒▒▒▒▒▄▄▄▄▄▄▄▄▒▒▒▒▒▒
+#                 ▒▒█▒▒▒▄██████████▄▒▒▒▒
+#                 ▒█▐▒▒▒████████████▒▒▒▒
+#                 ▒▌▐▒▒██▄▀██████▀▄██▒▒▒
+#                 ▐┼▐▒▒██▄▄▄▄██▄▄▄▄██▒▒▒
+#                 ▐┼▐▒▒██████████████▒▒▒
+#                 ▐▄▐████─▀▐▐▀█─█─▌▐██▄▒
+#                 ▒▒█████──────────▐███▌
+#                 ▒▒█▀▀██▄█─▄───▐─▄███▀▒
+#                 ▒▒█▒▒███████▄██████▒▒▒
+#                 ▒▒▒▒▒██████████████▒▒▒
+#                 ▒▒▒▒▒█████████▐▌██▌▒▒▒
+#                 ▒▒▒▒▒▐▀▐▒▌▀█▀▒▐▒█▒▒▒▒▒
+#                 ▒▒▒▒▒▒▒▒▒▒▒▐▒▒▒▒▌▒▒▒▒▒ A H M E D " | lolcat -F 166
+##############################################################################################################
+#echo -e "                                     .O,
+#                                     lkOl
+#                                     od cOc
+#                                     .X,  cOo.
+#                                      cX,   ,dkc.
+#                                       ;Kd.    ,odo,.
+#                                        .dXl   .  .:xkl.
+#                                          .OKc  .;c.  ,oOk:
+#                                            ,kKo. .cOkc. .lOk:.
+#                                              .dXx.  :KWKo. 'dXd.
+#                                                .oXx.  cXWW0c..dXd.
+#                                                  oW0   .OWWWNd.'KK.
+#                                          ....,;lkNWx     KWWWWX:'XK.
+# ,o:,                          .,:odkO00XNK0Okxdlc,.     .KWWWWWWddWd
+#  K::Ol                   .:d0NXK0OkxdoxO'             .lXWWWWWWWWKW0
+#  od  d0.              .l0NKOxdooooooox0.        .,cdOXWWWWWWWWWWWWWx
+#  :O   ;K;           ;kN0kooooooooooooK:  ..:ok0NWWWWWWWWWWWWWWWWWWK.
+#  'X    .Kl        ;KNOdooooooooooooooXkkXWWWWWWWWWWWWWWWWWWWWWWWNd.
+#  .N. o. .Kl     .OW0doooooooooooooodkXWWWWWWWWWWWWWWWWWWWWWWWW0l.
+#   0l oK. .kO:.;kNNkoooooooooooook0XWWWWWWWWWWWWWWWWWWWWWWWKx:.
+#   lX.,WN:  .:c:xWkoooooooooood0NWW0OWWWWWWWWWWWWWWWWWWWKo.
+#    0O.0WWk'   .XKoooooooooooONWWNo  dWWWWWWWWWWWWWWWWWl
+#     oKkNWWWX00NWXdooooooooxXWWNk'   dWWWWWWWWWWWWWWWWX
+#      .cONWWWWWWWWOoooooooONWWK:...c0WWWWWWWWWWWWWWWWWW:
+#         .;oONWWWWxooooodKWWWWWWWWWWWWWWWWWWWWWWWWWWWWWX.
+#              'XW0oooookNWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWd
+#              oW0ooooo0WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWO
+#             ;NXdooodKWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWx
+#          ;xkOOdooooxOO0KNWWWWWWWWWWWWWWWWWWWWWWWWWWWWWX.
+#         .NOoddxkkkkxxdoookKWWWWWWWWWWWWWWWWWWWWWWWWWWX'
+#          :KNWWWWWWWWWWX0xooONWWWWWWWWWWWWWWWWWWWWWWWk.
+#         .xNXxKWWWWWWWOXWWXxoKWWWWWWWWWWWWWWWWWWWWNk'
+#         OWl cNWWWWWWWk oNWNxKWWWWWWWWWWWWWWWWWNOl.
+#        ,Wk  xWWWWWWWWd  xWWNWWWWWWWWWWWWXOdc,.
+#        .N0   lOXNX0x;  .KWWWWWWWWWWWNkc.
+#         :NO,         'lXWWWWWWWWWNk:.
+#          .dXN0OkxkO0NWWWWWWWWWWKl.
+#             .';o0WWWWWWWWWWWNk;
+#                  .cxOKXKKOd;." #| lolcat -F 77
+#############################################################################################################################################################
+#echo -e "\033[01;31m                                                ,d888*
+#                                              ,d888
+#                                            ,d888
+#                                           ,d88
+#                                         ,d88
+#                                        ,d8
+#                                      ,d8*                 ..d**
+#                                    ,d88*             ..d**
+#                                  ,d88          ..d8*
+#                                ,d888     ..d8P*
+#                        .     ,d8888*8888*
+#                      ,*     ,88888*8P*
+#                    ,*      d888888*8b.
+#                  ,P       dP  *888.*888b.
+#                ,8*        8    *888   **88888b.
+#              ,dP                *88           *88b.
+#             d8n                  *8b               *8b.
+#           ,d8                     *8.                  *88b.
+#          d8P                       88.                    *88b
+#        ,88P                        888
+#       d888*       .d88P            888
+#      d8888b..d888888*              888
+#    ,888888888888888b.              888
+#   ,8*l88888P*****788888888ba.      888
+#  ,8l,8888*         88888*          d88*
+#  )8e888*          ,88888be.        888
+#  d888            ,8888888***     d888
+# d88P            ,8888888Pb.     d888
+#888*            ,88888888**   .d8888*
+# 88            ,888888888    .d88888b
+#  P           ,8888888888bd888888*
+#              d888888888888d888*
+#              8888888888888888b.
+#              88*. *88888888888b.        .db
+#              *888b. 8888888888888b. .d8888P
+#               **88b. *8888888888888888888888b...
+#                *888b. *8888888888P***7888888888888e.
+#                 88888b. ********.d8888b***88888P*
+#                  888888b     .d88888888888***8888.
+#                  )888888.   d888888888888P   *8888888b.
+#                 ,88888*    d88888888888**      8888b
+#                ,8888*    .8888888888P            888b.
+#               ,888*      888888888b...             888P88b.
+#      .db.   ,d88*        88888888888888b           8888
+#  ,d888888b.8888           *888888888888888888P     888b.
+# /*****8888b**                ***8888P***8888         8888b.
+#      /**88                  .ed8b..  .d888P              88888
+#                           d8**888888888P*                88b
+#                          (*..,d8888***                      88
+#                             (*                               88
+#                                                              88
+#                                                              88
+#                                                              8
+#                                                             d8 "
+##########################################################################################################
+#echo -e "           ____    _   _      _      ____       _      _   _
+#          / ___|  | | | |    / \    | __ )     / \    | | | |
+#          \___ \  | |_| |   / _ \   |  _ \    / _ \   | |_| |
+#           ___) | |  _  |  / ___ \  | |_) |  / ___ \  |  _  |
+#          |____/  |_| |_| /_/   \_\ |____/  /_/   \_\ |_| |_|"
+#################################################################################
+#echo -e "        ____    _   _      _      ____     ___   __        __
+#         / ___|  | | | |    / \    |  _ \   / _ \  \ \      / /
+#         \___ \  | |_| |   / _ \   | | | | | | | |  \ \ /\ / /
+#          ___) | |  _  |  / ___ \  | |_| | | |_| |   \ V  V /
+#         |____/  |_| |_| /_/   \_\ |____/   \___/     \_/\_/ "
+######################################################################
+#echo -e "  ─▄────▄▄▄▄▄▄▄────▄─
+#           ▀▀▄─▄█████████▄─▄▀▀
+#           ────██─▀███▀─██────
+#           ──▄─▀████▀████▀─▄──
+#           ▀█────██▀█▀██────█▀ "
+##################################################################
+#echo -e "((__---------__))         SHABAH          ((__---------__))
+#   (_) O O (_)                               (_) O O (_)
+#      [ - ]                                     [ - ]
+#       o_o           (  Stay strong  )           o_o "
+##############################################################################################
+#echo -e "  \033[1;31m                  .:.        .:,
+#         \033[1;31m          xM;           XK.
+#            \033[1;31m      dx'            .lO.
+#         \033[1;31m        do                ,0.
+#      \033[1;31m       .c.lN       ,   .     .k0.:'
+#           \033[1;31m   xMMk;    cOM0kWXl,   ocMMX.
+#         \033[1;31m     .NMK.   :WMMMMMMMx    dMMc
+#        \033[1;31m       lMMO  lWMMMMMMMMMO. lMMO
+#         \033[1;31m       cWMxxMMMMMMMMMMMMKlWMk
+#           \033[1;31m      .xWMMMMMMMMMMMMMMM0,
+#         \033[1;31m          ..OMd...;0MMMO..
+#         \033[1;31m    .l0O\033[1;32m.VXVX\033[1;31mOX.\033[1;32mVXVX\033[1;31m0MO\033[1;32mVXVX.\033[1;31m0Kd,
+#         \033[1;31m   lWMMO0\033[1;32mVXVX0\033[1;31mOX.\033[1;32mVXVX\033[1;31ml\033[1;32mVXVX\033[1;31m.VXNMMO
+#        \033[1;31m   .MMX;.N0\033[1;32mVXVX0\033[1;31m0X.\033[1;32mVXVXVX0\033[1;31m.0M:.OMMl
+#     \033[1;31m     .OXc  ,MMO\033[1;32mVXVX0\033[1;31mVX \033[1;32m.VXVX0\033[1;31m0MMo  ,0X'
+#      \033[1;31m    0x.  :XMMMk\033[1;32mVXVX\033[1;31m.XO.\033[1;32mVXVX\033[1;31mdMMMWo.  :X'
+#     \033[1;31m    .d  'NMMMMMMk\033[1;32mVXVX\033[1;31m..\033[1;32mVXVX0\033[1;31m.XMMMMWl  ;c
+#         \033[1;31m   'NNoMMMMMMx\033[1;32mVXVXVXVXVX0.\033[1;31mXMMk0Mc
+#        \033[1;31m   .NMx OMMMMMMd\033[1;32mVXVXVX\033[1;31ml\033[1;32mVXVX\033[1;31m.NW.;MMc
+#       \033[1;31m   :NMMd .NMMMMMMd\033[1;32mVXVX\033[1;31mdMd,,,,oc ;MMWx
+#       \033[1;31m   .0MN,  'XMMMMMMo\033[1;32mVXo\033[1;31mMMMMMMWl   0MW,
+#     \033[1;31m      .0.    .xWMMMMM:lMMMMMM0,     kc
+#            ,O.     .:dOKXXXNKOxc.      do
+#             '0c        -VulnX-       ,Ol
+#               ;.                     :. " # | lolcat -F 66
+############################################################################################################################################################################################
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+echo
+figlet "          S H A B A H" | lolcat -F 10
+#echo
+#figlet "         S H A D O W" | lolcat -F 10
+#echo
+#figlet "" | lolcat -F 10
+#echo
+#figlet "" | lolcat -F 10
+#echo
+#figlet "" | lolcat -F 10
+#echo
+#figlet "" | lolcat -F 10
+#echo
+#figlet "" | lolcat -F 10
+echo
+
+
+
+
+
+
+
+
+
+#------------------------------------------------------------------------
+
+
+PS1='\[\033[01;34m\][ \[\033[01;32m\]${PWD/*\//} \[\033[01;34m\]]\[\033[01;36m===\[\033[01;35m\][\[\033[01;31m\] S H A B A H\[\033[01;35m\] ]\[\033[01;33m\]»»} \[\033[01;34m\]'
+
+#PS1=''
+#PS1=''
+#PS1=''
+#PS1=''
+#PS1=''
+#PS1=''
+#PS1=''
+#PS1=''
+#PS1='\[\033[01;31m\]┌─\[\033[01;33m\][\[\033[01;32m\]SA\[\033[01;31m\]@\[\033[01;32m\]SHABAH\[\033[01;33m\]]\[\033[01;31m\]─────────}\[\033[01;33m\] S H A B A H \e[1;31m{─────────\[\033[01;33m\][\[\033[01;32m\]\t\[\033[01;33m\]]\[\033[01;31m\]#\[\033[01;33m\][\[\033[01;32m\]2019\[\033[01;33m\]]\[\033[01;31m\]$
+#\[\/033[01;31m\]¦
+#\[\033[01;31m\]└─\[\033[01;33m\][ \[\033[01;31m\]${PWD/*\//}\[\033[01;33m\] ]\[\033[01;31m\] -\[\033[01;32m\]}\[\033[01;31m\] '
+
+
+
+
+#------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+#_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+alias x='exit'
+alias T='Tool-X'
+alias n='nano .bashrc'
+alias +='chmod +x *'
+alias N='./ngrok tcp 40'
+alias V=cd' Virus4 && python2 Virus4.py'
+alias SD=cd' /sdcard '
+alias FA='startfedora'
+alias h='help'
+alias msf='msfconsole'
+alias L=cd' Lazymux && python2 lazymux.py'
+alias V1=cd' blackeye && bash blackeye.sh'
+alias EK='EasY_HaCk'
+alias T2=cd' TOOLS && python TOOLS.py'
+alias V2=cd' install && ./setup.sh'
+alias ip='ifconfig'
+alias v7x=cd' V7x-Tool && python V7x-Tool-v1.5.py'
+alias SA=cd' /sdcard/SAx'
+#alias =''
+#alias =''
+#alias =''
+#alias =''
+#alias =''
+#alias =''
+#alias =''
+#alias =''
+#alias =''
+#alias =''
+#alias =''
+#alias =''
+#------------------------------------------------------------------------------------------------------------------------------
+alias 1='git clone https://github.com/Amerlaceset/Amer'
+alias 1-1='git clone https://github.com/amerlaceset/Virus4'
+alias 2='git clone https://github.com/Vairous7x/V7x-Tool'
+alias 3='git clone https://github.com/Rajkumrdusad/Tool-X.git'
+alias 4='git clone https://github.com/Hax4us/Tmux-Bunch'
+alias 5='git clone https://github.com/Gameye98/Lazymux'
+alias 6='git clone https://github.com/sabri-zaki/EasY_HaCk'
+alias 7='git clone https://github.com/zlucifer/troll_project'
+alias 8='git clone https://github.com/alsantarese/install'
+alias 9='git clone https://github.com/thelinuxchoice/blackeye'
+alias 10='git clone https://github.com/anouarbensaad/vulnx.git'
+alias 11='git clone https://github.com/ciku370/OSIF'
+alias 12='git clone https://github.com/Hax4us/apktool'
+alias 13='git clone https//github.com/thelinuxchoice/blackeye'
+alias 14='git clone https//github.com/islam928/payloadAmin'
+alias 15='git clone https//github.com/sqlmapproject/sqlmap.git'
+alias 16='git clone https//github.com/Tuhinshubhra/RED_HAWK.git'
+alias 17='git clone https//github.com/mkmsaw/install3'
+alias 18='git clone https//github.com/dmeel/Dooslp.git'
+alias 19='git clone https//github.com/FR13ND8/BRUTEFOFCEnew.git'
+alias 20='git clone https//github.com/islam928/bom-filc'
+alias 21='git clone https//github.com/AHMEDBAGLAB/installTrick.git'
+alias 22='git clone https//github.com/YuKersCreew/mbf'
+alias 23='git clone https//github.com/Noxturnix/guardn'
+alias 24='git clone https//github.com/zanyarjamal/xerxes'
+alias 25='git clone https//github.com/TechnicaiMujeebTermux-Lazyscript.git'
+alias 26='git clone https//github.com/AhdriGanz/whatshsack'
+alias 27='git clone https//github.com/LooFy-Algaddafi/Loofy_Algaddafi.git'
+alias 28='git clone https//github.com/hasi12sibaly0us/setgroup'
+alias 29='git clone https//github.com/EKyArdiahsyah/WhiteCyberTeam'
+alias 30='git clone https//github.com/ardzz/zeeb-dorker.git'
+alias 31='git clone https//github.com/MoMuilWH/TMX-FW.git'
+alias 32='git clone https//github.com/KAG-NEWBIE/s-wbf'
+alias 33='git clone https//github.com/alialialiali111/X-dos'
+alias 34='git clone https//github.com/natso5000/CUUTALL'
+alias 35='git clone https//github.com/llayTamvan/Report.git'
+alias 36='git clone https//github.com/Md4fv/adfind'
+alias 37='git clone https//github.com/poshayogi/SETAN'
+alias 38='git clone https//github.com/eveit-security/weeman'
+alias 39='git clone https//github.com/hackermohamedpro/Aliens.py.git'
+alias 40='git clone https//github.com/ABDLLAHALSAKKA/instal'
+alias 41='git clone https://github.com/IlayTamvan/Report'
+alias 42='git clone https://github.com/Manisso/fsociety'
+#alias 43='git clone https://github.com/Mr-ARIYA/MOD-PRO'
+#alias 44='git clone https://github.com/LionSec/xerosploit'
+#alias 45='git clone https://github.com/Cesar-Hack-Gray/SocialSploit'
+#alias 46='git clone '
+#alias 47='git clone '
+#alias 48='git clone '
+#alias 49='git clone '
+#alias 50='git clone '
+#alias 51='git clone '
+#alias 52='git clone '
+#alias 53='git clone '
+#alias 54='git clone '
+#alias 55='git clone '
+#alias 56='git clone '
+#alias 57='git clone '
+#alias 58='git clone '
+#alias 59='git clone '
+#alias 60='git clone '
+#alias 61='git clone '
+#alias 62='git clone '
+#alias 63='git clone '
+#alias 64='git clone '
+#alias 65='git clone '
+#alias 66='git clone '
+#alias 67='git clone '
+#alias 68='git clone '
+#alias 69='git clone '
+#alias 70='git clone '
+#alias 71='git clone '
+#alias 72='git clone '
+#alias 73='git clone '
+#alias 74='git clone '
+#alias 75='git clone '
+#alias 76='git clone '
+#alias 77='git clone '
+#alias 78='git clone '
+#alias 79='git clone '
+#alias 80='git clone '
+#alias 81='git clone '
+#alias 82='git clone '
+#alias 83='git clone '
+#alias 84='git clone '
+#alias 85='git clone '
+#alias 86='git clone '
+#alias 87='git clone '
+#alias 88='git clone '
+#alias 89='git clone '
+#alias 90='git clone '
+#alias 91='git clone '
+#alias 92='git clone '
+#alias 93='git clone '
+#alias 94='git clone '
+#alias 95='git clone '
+#alias 96='git clone '
+#alias 97='git clone '
+#alias 98='git clone '
+#alias 99='git clone '
+#alias 100='git clone '
+#alias ='git clone '
+#_______________________________________________________________________________________________________________________________________________________________________________
+
+
+#------------------------------------------------------------------------
+
+#----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
